@@ -8,7 +8,7 @@ This project features advanced visualizations designed for enhanced articulation
 
 ![image](https://github.com/user-attachments/assets/3acfa93b-c1c0-41fd-9974-b819f54c590c)
 
-I led the team responsible for integrating these advanced visualization functionalities into our inventory management system, significantly improving its analytical capabilities.
+## I led the team responsible for integrating these advanced visualization functionalities into our inventory management system, significantly improving its analytical capabilities.
 
 # Highlights
 The notebook provides a comprehensive analysis of a specific product's demand and inventory over a span of 62 days.
