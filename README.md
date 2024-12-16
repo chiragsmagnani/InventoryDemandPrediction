@@ -6,6 +6,8 @@ This project features advanced visualizations designed for enhanced articulation
 
 ![image](https://github.com/user-attachments/assets/2a396c18-3f44-45a9-b7a6-e33a7be972f6)
 
+![image](https://github.com/user-attachments/assets/3acfa93b-c1c0-41fd-9974-b819f54c590c)
+
 I led the team responsible for integrating these advanced visualization functionalities into our inventory management system, significantly improving its analytical capabilities.
 
 # Highlights
