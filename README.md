@@ -1,5 +1,5 @@
 # Inventory Management Analysis
-Disclaimer: The data presented in this repository is entirely fictitious and does not represent actual product names, descriptions, or sensitive information. All real-world data has been replaced with placeholders or dummy values solely for demonstration and testing purposes. Any resemblance to actual products, names, or companies is purely coincidental.
+Disclaimer: The data presented in this repository is fictitious and does not represent actual product names, descriptions, or sensitive information. All real-world data has been replaced with placeholders or dummy values solely for demonstration and testing purposes. Any resemblance to actual products, names, or companies is purely coincidental.
 
 # Overview
 This project features advanced visualizations designed for enhanced articulation and analysis, specifically tailored for upper-level management. The visualizations include interactive hover capabilities, allowing for detailed insights and better understanding of inventory trends and demand patterns.
