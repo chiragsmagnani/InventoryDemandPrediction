@@ -4,9 +4,7 @@ Disclaimer: The data presented in this repository is entirely fictitious and doe
 # Overview
 This project features advanced visualizations designed for enhanced articulation and analysis, specifically tailored for upper-level management. The visualizations include interactive hover capabilities, allowing for detailed insights and better understanding of inventory trends and demand patterns.
 
-[image](https://github.com/user-attachments/assets/a810ccfc-b12d-4d9e-8c94-54f89e9d4cd0)
-
-
+![image](https://github.com/user-attachments/assets/2a396c18-3f44-45a9-b7a6-e33a7be972f6)
 
 I led the team responsible for integrating these advanced visualization functionalities into our inventory management system, significantly improving its analytical capabilities.
 
