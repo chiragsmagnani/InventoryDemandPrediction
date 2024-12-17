@@ -35,15 +35,14 @@ By addressing demand variability and providing reliable predictions, this soluti
 
 2. Exploratory Data Analysis (EDA):
   a. Visualized demand trends over time.
+  b. Analyzed seasonality, autocorrelation (ACF), and partial autocorrelation (PACF) to   
+     determine SARIMA parameters.
 
 ![image](https://github.com/user-attachments/assets/2a396c18-3f44-45a9-b7a6-e33a7be972f6)
 
 ![image](https://github.com/user-attachments/assets/3acfa93b-c1c0-41fd-9974-b819f54c590c)
 
-  b. Analyzed seasonality, autocorrelation (ACF), and partial autocorrelation (PACF) to   
-     determine SARIMA parameters.
-
-3. Model Selection & Training:
+  3. Model Selection & Training:
    a. Used the SARIMA model (Seasonal ARIMA) for forecasting demand.
 
    b.Validated the model to ensure accuracy using time series metrics.
