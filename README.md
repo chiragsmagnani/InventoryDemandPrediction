@@ -29,11 +29,12 @@ By addressing demand variability and providing reliable predictions, this soluti
 ### Methodology
 
 1. Data Preprocessing: 
-  a. Removed unnecessary columns and formatted the date column.
 
+  a. Removed unnecessary columns and formatted the date column.
   b. Aggregated demand data to create a clean time series.
 
 2. Exploratory Data Analysis (EDA):
+ 
   a. Visualized demand trends over time.
   b. Analyzed seasonality, autocorrelation (ACF), and partial autocorrelation (PACF) to   
      determine SARIMA parameters.
@@ -43,13 +44,13 @@ By addressing demand variability and providing reliable predictions, this soluti
 ![image](https://github.com/user-attachments/assets/3acfa93b-c1c0-41fd-9974-b819f54c590c)
 
   3. Model Selection & Training:
+     
    a. Used the SARIMA model (Seasonal ARIMA) for forecasting demand.
-
    b.Validated the model to ensure accuracy using time series metrics.
 
 4. Interactive Visualizations:
+   
    a. Built hover-capable graphs and trend lines for detailed insights.
-
    b. Created user-friendly visualizations for upper management to monitor inventory trends.
 
 ### Skills:
