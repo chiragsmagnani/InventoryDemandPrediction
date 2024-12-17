@@ -1,4 +1,4 @@
-# Inventory Optimisation using Demand Prediction Analysis
+# Inventory Demand Prediction
 
 ## Executive Summary
 
