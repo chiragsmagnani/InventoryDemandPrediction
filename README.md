@@ -39,7 +39,7 @@ By addressing demand variability and providing reliable predictions, this soluti
    a. Visualized demand trends over time.
   
    b. Analyzed seasonality, autocorrelation (ACF), and partial autocorrelation (PACF) to   
-     determine SARIMA parameters.
+   determine SARIMA parameters.
 
 ![image](https://github.com/user-attachments/assets/2a396c18-3f44-45a9-b7a6-e33a7be972f6)
 
