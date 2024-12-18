@@ -30,32 +30,32 @@ By addressing demand variability and providing reliable predictions, this soluti
 
 1. Data Preprocessing: 
 
-  a. Removed unnecessary columns and formatted the date column.
+   a. Removed unnecessary columns and formatted the date column.
   
-  b. Aggregated demand data to create a clean time series.
+   b. Aggregated demand data to create a clean time series.
 
 2. Exploratory Data Analysis (EDA):
  
-  a. Visualized demand trends over time.
+   a. Visualized demand trends over time.
   
-  b. Analyzed seasonality, autocorrelation (ACF), and partial autocorrelation (PACF) to   
+   b. Analyzed seasonality, autocorrelation (ACF), and partial autocorrelation (PACF) to   
      determine SARIMA parameters.
 
 ![image](https://github.com/user-attachments/assets/2a396c18-3f44-45a9-b7a6-e33a7be972f6)
 
 ![image](https://github.com/user-attachments/assets/3acfa93b-c1c0-41fd-9974-b819f54c590c)
 
-  3. Model Selection & Training:
+3. Model Selection & Training:
      
-   a. Used the SARIMA model (Seasonal ARIMA) for forecasting demand.
+     a. Used the SARIMA model (Seasonal ARIMA) for forecasting demand.
    
-   b. Validated the model to ensure accuracy using time series metrics.
+     b. Validated the model to ensure accuracy using time series metrics.
 
 4. Interactive Visualizations:
    
-   a. Built hover-capable graphs and trend lines for detailed insights.
+     a. Built hover-capable graphs and trend lines for detailed insights.
    
-   b. Created user-friendly visualizations for upper management to monitor inventory trends.
+     b. Created user-friendly visualizations for upper management to monitor inventory trends.
 
 ### Skills:
 
@@ -73,8 +73,7 @@ Statistical Analysis: ACF, PACF for model parameter estimation
 
 1. Accurate Forecasting:
    
-   a. The SARIMA model successfully forecasted demand trends for a specific product over 62  
-      days.
+   a. SARIMA model successfully forecasted demand trends for a specific product over 62     days.
 
    b. Model performance was validated through error metrics, ensuring reliability.
 
