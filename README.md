@@ -31,11 +31,13 @@ By addressing demand variability and providing reliable predictions, this soluti
 1. Data Preprocessing: 
 
   a. Removed unnecessary columns and formatted the date column.
+  
   b. Aggregated demand data to create a clean time series.
 
 2. Exploratory Data Analysis (EDA):
  
   a. Visualized demand trends over time.
+  
   b. Analyzed seasonality, autocorrelation (ACF), and partial autocorrelation (PACF) to   
      determine SARIMA parameters.
 
@@ -46,11 +48,13 @@ By addressing demand variability and providing reliable predictions, this soluti
   3. Model Selection & Training:
      
    a. Used the SARIMA model (Seasonal ARIMA) for forecasting demand.
-   b.Validated the model to ensure accuracy using time series metrics.
+   
+   b. Validated the model to ensure accuracy using time series metrics.
 
 4. Interactive Visualizations:
    
    a. Built hover-capable graphs and trend lines for detailed insights.
+   
    b. Created user-friendly visualizations for upper management to monitor inventory trends.
 
 ### Skills:
@@ -68,6 +72,7 @@ Statistical Analysis: ACF, PACF for model parameter estimation
 #### Results:
 
 1. Accurate Forecasting:
+   
    a. The SARIMA model successfully forecasted demand trends for a specific product over 62  
       days.
 
